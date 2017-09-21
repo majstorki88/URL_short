@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Implementation-Title: shortener
+Implementation-Version: 0.0.1-SNAPSHOT
+Archiver-Version: Plexus Archiver
+Built-By: nemanjama
+Implementation-Vendor-Id: com.nemanja
+Spring-Boot-Version: 1.5.7.RELEASE
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: org.springframework.boot.loader.WarLauncher
+Start-Class: com.nemanja.shortener.ShortenerApplication
+Spring-Boot-Classes: WEB-INF/classes/
+Spring-Boot-Lib: WEB-INF/lib/
+Created-By: Apache Maven 3.5.0
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/shortener/
+
